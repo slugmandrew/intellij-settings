@@ -1,0 +1,43 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Batch Applications Issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="PUSH_DOWN_PREVIEW_USAGES" value="true" />
+    <option name="INHERITANCE_TO_DELEGATION_DELEGATE_OTHER" value="true" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>

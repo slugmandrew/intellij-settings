@@ -1,0 +1,49 @@
+<code_scheme name="Drew's custom">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1" />
+  <option name="RIGHT_MARGIN" value="200" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="160" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_TRY_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SYNCHRONIZED_PARENTHESES" value="false" />
+    <option name="WRAP_LONG_LINES" value="true" />
+    <arrangement>
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
+    </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <option name="RIGHT_MARGIN" value="160" />
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

@@ -1,0 +1,47 @@
+<templateSet group="html/xml">
+  <template name="bootstrap" value="xmlns:b=&quot;urn:import:org.gwtbootstrap3.client.ui&quot;" description="bootstrap namespace" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="gwt" value="xmlns:b.gwt=&quot;urn:import:org.gwtbootstrap3.client.ui.gwt&quot;" description="bootstrap gwt" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="cellview" value="xmlns:c=&quot;urn:import:com.google.gwt.user.cellview.client&quot;" description="gwt celllist / table namespace" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="editor" value="xmlns:e='urn:import:com.utilitiessavings.usavappv7.client.application.editor'" description="editor namespace" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="html" value="xmlns:b.html=&quot;urn:import:org.gwtbootstrap3.client.ui.html&quot;" description="bootstrap html helpers" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="container" value="&lt;b:Container&gt;&#10;&#10;    &lt;b:Row&gt;&#10;&#10;        &lt;b:Column size=&quot;MD_6&quot;&gt;&#10;            &#10;            &#10;            &#10;        &lt;/b:Column&gt;&#10;        &lt;b:Column size=&quot;MD_6&quot;&gt;&#10;            &#10;            &#10;            &#10;        &lt;/b:Column&gt;&#10;&#10;    &lt;/b:Row&gt;&#10;&#10;&lt;/b:Container&gt;" description="container rol columns" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="select" value="xmlns:b.select=&quot;urn:import:org.gwtbootstrap3.extras.select.client.ui&quot;" description="bootstrap select" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="global" value="&lt;ui:style field=&quot;global&quot; src=&quot;../../../resources/GlobalStyles.css&quot; /&gt;" description="global stylesheet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="usav" value="xmlns:us=&quot;urn:import:com.utilitiessavings.usavappv7.client.application.us&quot;" description="us widgets namespace" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

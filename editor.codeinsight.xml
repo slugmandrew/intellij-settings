@@ -1,0 +1,15 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.labs.repackaged.com.google.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.repackaged.com.google.api.client.util.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.repackaged.com.google.common.base.MoreObjects" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.repackaged.com.google.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.repackaged.org.joda.time.format.FormatUtils" />
+    <EXCLUDED_PACKAGE NAME="com.google.gwt.dev.util.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.gwt.thirdparty.guava.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.gwt.user.client.ui.Widget" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<templateSet group="Logging">
+  <template name="info" value="Log.info(&quot;$CLASS_NAME$ -&gt; $METHOD_NAME$: &quot; + variable);" description="Log.info" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+    </context>
+  </template>
+</templateSet>
